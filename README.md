@@ -1,1 +1,4 @@
-# OfflineRealityVSOffline
+# OfflineRealityVSOnline
+Somewhere in the timelapse between the creation of the internet until now, society has become slave of digital enviroment. Is now common to see everyone stucked into their devices, reading mails, checking Facebook, using Twitter to get into trends, instagraming their sorroundings and even preferring texting via whatsapp than talking to each others.
+Offline reality became somehow irrelevant to our existance, we are too immersed in what other are living , eating, wearing, talking and spreading that we forget how important human interaction is. 
+Let's took this example to display how important is our online reality nowadays, we arrive to any place asking first for their internet password to search for recommendatios from the place, and not just ask for them to the people that is part of that placee.
